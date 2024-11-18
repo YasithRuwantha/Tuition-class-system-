@@ -1,1 +1,1 @@
-# Tuition-class-system-
+# simple tuition class management system
