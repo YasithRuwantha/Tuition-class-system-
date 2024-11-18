@@ -156,7 +156,7 @@ public class MainFrame extends javax.swing.JFrame {
         ));
         jScrollPane2.setViewportView(table1);
 
-        jPanel1.add(jScrollPane2, new org.netbeans.lib.awtextra.AbsoluteConstraints(390, 0, 570, 520));
+        jPanel1.add(jScrollPane2, new org.netbeans.lib.awtextra.AbsoluteConstraints(370, 0, 590, 520));
 
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 960, -1));
 
