@@ -66,7 +66,7 @@ public class MainFrame extends javax.swing.JFrame {
         });
         jPanel3.add(searchbox, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 20, 290, -1));
 
-        jPanel2.add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 20, 330, 60));
+        jPanel2.add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 20, 330, 60));
 
         jPanel4.setBackground(new java.awt.Color(255, 204, 204));
         jPanel4.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
